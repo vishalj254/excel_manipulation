@@ -1,3 +1,9 @@
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000/api](http://localhost:3000/api) to view it in the browser.
 
 This is a practical programming test using Node.js.
 
