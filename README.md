@@ -5,13 +5,6 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000/api](http://localhost:3000/api) to view it in the browser.
 
-This is a practical programming test using Node.js.
-
-Time limit: 24 hours
-
-Please feel free to use Google.
-Feel free to ask questions to clarify requirements.
-Install what ever libraries will help you do the job (or just write code from scratch).
 
 - Load the data file (worldcities.csv).
 - To check the output http://localhost:3000/api/
