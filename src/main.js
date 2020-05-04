@@ -14,7 +14,6 @@ router.get('/',async function(req,res){
     })
 })
 
-
 router.get('/data',async function(req,res){
     fs.readFile('worldcities.csv',async (err,data)=>{
         if(err){
